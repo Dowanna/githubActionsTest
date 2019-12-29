@@ -1,6 +1,6 @@
 export default {
   router: {
-    base: 'githubActionsTest'
+    base: '/githubActionsTest/'
   },
   mode: 'universal',
   /*
